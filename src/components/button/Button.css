@@ -1,0 +1,14 @@
+.default {
+    background-color: #A259FF;
+    border-radius: 20px;
+    border: none;
+    height: 60px;
+    width: 152px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+}
+
+button {
+    cursor: pointer;
+}

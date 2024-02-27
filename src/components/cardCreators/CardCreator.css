@@ -1,0 +1,63 @@
+.card-creator {
+    background-color: #3B3B3B;
+    width: 240px;
+    height: 238px;
+    border-radius: 20px;
+    transition: all 0.1s;
+}
+
+.title-creator-card {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.card-place {
+    font-family: "Space Mono", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #858584;
+    background-color: #2B2B2B;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    margin-right: 160px;
+    margin-bottom: 90px;
+}
+
+.img-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.descr-wrapper {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.creator-pfp {
+    width: 120px;
+}
+
+.card-descr-cash {
+    color: #858584;
+    font-size: 16px;
+}
+
+.totalCash {
+    font-family: "Space Mono", sans-serif;
+    color: #fff;
+}
+
+.card-creator:hover {
+    background-color: #414141;
+}

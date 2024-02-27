@@ -1,0 +1,61 @@
+.createBlock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1E1E1E;
+    margin-top:180px;
+}
+
+.container_create{
+    padding-bottom: -100px;
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+    background-color: #1E1E1E;
+}
+
+.right-content-title{
+    font-weight: 600;
+    font-size: 38px;
+    height: 92px;
+    width: 405px;
+}
+
+.right-content{
+    display: flex;
+    flex-direction: column;;
+    padding-top: 80px;
+}
+
+.form{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form-item{
+    width: 330px;
+    height: 46px;
+    border-radius: 20px;
+    font-size: 22px;
+}
+
+.justImg{
+    width: 610px;
+    height: 691px;
+    margin-left: -15px;
+}
+
+.default{
+    width: 330px;
+    height: 46px;
+}
+.icon {
+    min-width: 50px;
+    text-align: center;
+}
+
+.btn-spc{
+    margin-top: 20px;
+}

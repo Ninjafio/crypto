@@ -1,0 +1,32 @@
+.browse-card {
+    background-color: #3B3B3B;
+    width: 240px;
+    height: 316px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    transition: all 0.3s;
+}
+
+.browse-card:hover {
+        transform: scale(1.02);
+}
+
+.title-card-browse {
+    padding: 20px;
+    padding-bottom: 0;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.img-browse {
+    filter: blur(2px);
+    overflow: hidden;
+}
+
+.img-browse-category {
+    position: absolute;
+    width: 100px;
+    margin-left: 70px;
+    margin-top: 70px;
+}

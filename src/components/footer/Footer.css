@@ -1,0 +1,48 @@
+.footer {
+    background-color: #3B3B3B;
+    height: 264px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+}
+
+.left-title-footer {
+    font-family: "Space Mono";
+    font-weight: 700;
+    font-size: 22px;
+    padding-bottom: 25px;
+}
+
+.left-list-footer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.list-item-footer {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Work Sans";
+    color: #CCCCCC;
+}
+
+.right-title-footer {
+    text-transform: capitalize;
+    font-family: "Space Mono";
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.right-descr-footer {
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 16px;
+    width: 330px;
+}
+
+.right-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}

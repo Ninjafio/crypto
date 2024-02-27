@@ -1,0 +1,55 @@
+.defaultNFT {
+    background-color: #3B3B3B;
+    width: 330px;
+    height: 469px;
+    border-radius: 20px;
+}
+
+.title-card-nft {
+    font-weight: 600;
+    font-size: 22px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.user-wrapper-card {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding-left: 30px;
+}
+
+.username-card {
+    font-family: "Space Mono";
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.info-wrapper {
+    padding-top: 30px;
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.left-info {
+    text-align: left;
+}
+
+.right-info {
+    text-align: right;
+}
+
+.info-item-title {
+    font-size: 12px;
+    font-weight: 400;
+    font-family: "Space Mono";
+    color: #858584;
+}
+
+.info-item {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Space Mono";
+}

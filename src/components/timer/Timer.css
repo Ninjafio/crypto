@@ -1,0 +1,38 @@
+.timer {
+    font-family: "Space Mono";
+    background-color: hsla(0, 0%, 23%, 0.502);
+    width: 350px;
+    height: 147px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.timer-title {
+    width: 290px;
+    font-family: "Space Mono";
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.timer-list {
+    display: flex;
+}
+
+.timer-num {
+    font-family: "Space Mono";
+    font-weight: 700;
+    font-size: 38px;
+}
+
+.timer-str {   
+    font-family: "Space Mono";
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.timer-item-li {
+    padding-left: 25px;
+}

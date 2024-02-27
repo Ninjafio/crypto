@@ -1,0 +1,30 @@
+.cardHow {
+    background-color: #3B3B3B;
+    width: 330px;
+    height: 439px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.img-cardHow {
+    width: 250px;
+    height: 250px;
+}
+
+.cardHow-title {
+    padding-top: 10px;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.cardHow-descr {
+    width: 270px;
+    padding-top: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}

@@ -1,0 +1,69 @@
+.pfp{
+    height: 24px;
+    width: 24px;
+    border-radius: 100%;
+}   
+
+.card-item{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.seeMore{
+    background-color: #A259FF;
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    cursor: pointer;
+}
+
+.seeMore-item{
+    font-family: "Space Mono";
+    font-size: 22px;
+    padding-top: 35px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.title-card-name{
+    font-family: "Work Sans";
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.autor-name{
+    font-family: "Work Sans";
+}
+
+.cardFooterItem{
+    display: flex;
+    gap: 10px;  
+}
+
+.card-items{
+    display: flex;
+    flex-direction: row;
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+}
+
+.cards{
+    width: 330px;
+}
+
+.main-pic{
+    width: 330px;
+    height: 330px;
+}
+
+.card-items{
+    justify-content: space-between;
+    margin-top: 15px    ;
+}

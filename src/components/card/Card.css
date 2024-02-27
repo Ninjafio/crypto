@@ -1,0 +1,22 @@
+.card {
+    background-color: #3B3B3B;
+    width: 510px;
+    height: 510px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.title-card {
+    padding: 20px;
+    padding-bottom: 0;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.descr-card {
+    padding-top: 5px;
+    padding-left: 30px;
+    font-size: 16px;
+    font-weight: 400;
+}

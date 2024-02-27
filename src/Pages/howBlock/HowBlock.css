@@ -1,0 +1,33 @@
+.text-default {
+    margin-top: -3px;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.how-title-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.how-title {
+    width: 1080px;
+    font-weight: 600;
+    font-size: 38px;
+}
+
+.how-descr {
+    display: flex;
+    gap: 570px;
+    width: 1080px;
+}
+
+.how-card-wrapper {
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+}
